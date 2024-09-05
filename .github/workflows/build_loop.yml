@@ -287,7 +287,6 @@ jobs:
           low_carb_limit \
           no_auth \
           override_sens \
-          lnl_icon \
           watch_title \
           2hlollipop \
           meal_days \
